@@ -1,0 +1,6 @@
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\bin\Debug\JDictParser.exe.config
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\bin\Debug\JDictParser.exe
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\bin\Debug\JDictParser.pdb
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\obj\Debug\JDictParser.csprojResolveAssemblyReference.cache
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\obj\Debug\JDictParser.exe
+c:\users\lukez_000\documents\visual studio 2013\Projects\JDictParser\JDictParser\obj\Debug\JDictParser.pdb

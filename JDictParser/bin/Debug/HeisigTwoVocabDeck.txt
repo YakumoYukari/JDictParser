@@ -1,0 +1,560 @@
+Word	JDIC Sequence Number	Reading	Kanji	Parts of Speech	Meanings	Related Words
+此の	1582920	この	此	pre-noun adjectival	1: this (something or someone close to the speaker (including the speaker), or ideas expressed by the speaker)	何の・どの; 此れ・1; 其の・1; 彼の
+此れ	1628530	これ	此	pronoun	1: this (indicating an item near the speaker, the action of the speaker, or the current topic)<br><br>1: this person (usu. indicating someone in one's in-group)<br><br>1: now<br><br>1: here<br><br>1: I (me)<br><br>1: certainly	何れ・1; 其れ・1; 彼・あれ・1
+柴	1956360	しば	柴	noun	1: brushwood<br>2: firewood	
+砦	1295240	とりで	砦	noun	1: fort<br>2: fortress<br>3: stronghold<br>4: fortification	
+些と	1007550	ちっと	些	adverb	1: a little bit<br><br>1: a little while	
+髭	1601810	ひげ	髭	noun	1: moustache<br>2: beard<br>3: whiskers<br><br>1: extremely short pulse appearing on an electrical signal	口髭; 顎鬚; 頬髯
+鱗	1555890	うろこ	鱗	noun	1: scale (of fish)<br><br>1: serif (on kana or kanji (e.g. in Mincho font))	
+庵	1154280	いおり	庵	noun, noun, used as a suffix	1: hermitage<br>2: retreat	
+俺	1576870	おれ	俺	pronoun, nouns which may take the genitive case particle `no'	1: I<br>2: me	
+臼	1172280	うす	臼	noun	1: millstone<br>2: mortar	
+舅	1571280	しゅうと	舅	noun	1: father-in-law	姑
+鼠	1397840	ねずみ	鼠	noun	1: mouse<br>2: rat<br><br>1: dark gray<br>2: dark grey<br>3: slate (color, colour)	鼠色
+鑿	1573920	のみ	鑿	noun	1: chisel	
+毀つ	1877300	こぼつ	毀	Godan verb with `tsu' ending, transitive verb	1: to destroy<br>2: to break<br>3: to damage	
+毀れる	2261940	こぼれる	毀	Ichidan verb, transitive verb	1: to be chipped<br>2: to be nicked	
+畷	2525400	なわて	畷	noun	1: footpath between rice fields	
+綴じる	1433770	とじる	綴	Ichidan verb, transitive verb	1: to bind<br>2: to file<br><br>1: to top with egg (e.g. donburi)	丼・どんぶり・2
+綴る	1433780	つづる	綴	Godan verb with `ru' ending, transitive verb	1: to spell<br><br>1: to compose<br>2: to frame<br>3: to write<br><br>1: to bind together (e.g. the pages of a book)<br>2: to sew up<br>3: to stitch together<br>4: to patch	
+綴	1598030	つづり	綴	noun	1: spelling<br><br>1: orthography<br><br>1: patching<br>2: binding	
+爾	2174500	おれ	爾	noun	1: you	
+鎧	1204740	よろい	鎧	noun	1: armor<br>2: armour	
+鎧う	2733150	よろう	鎧	Godan verb with `u' ending	1: to put on armour (armor)<br>2: to wear armour<br>3: to arm oneself<br><br>1: to wear<br>2: to cover	
+韮	1467090	にら	韮	noun	1: Chinese chive<br>2: garlic chive (Allium tuberosum)	
+籤	1570360	くじ	籤	noun	1: lottery<br>2: lot	
+雛	1373400	ひな	雛	noun	1: young bird<br>2: chick<br><br>1: doll<br><br>1: green<br>2: wet behind the ears<br>3: juvenile	
+尤も	1535810	もっとも	尤	conjunction, adjectival nouns or quasi-adjectives, noun	1: but then<br>2: although<br>3: though<br><br>1: reasonable<br>2: natural<br>3: just	
+或	1586840	ある	或	pre-noun adjectival	1: a certain ...<br>2: some ...	
+或いは	1586850	あるいは	或	adverb, conjunction, expressions	1: or<br>2: possibly	
+斬る	1304400	きる	斬	Godan verb with `ru' ending, transitive verb	1: to kill (a human) using a blade (sword, machete, knife, etc.)<br>2: to slice (off)<br>3: to lop (off)<br>4: to cut (off)	
+兎	1443970	うさぎ	兎	noun	1: rabbit<br>2: hare<br>3: coney<br>4: cony<br>5: lagomorph (esp. leporids)	
+也	1536290	なり	也	auxiliary verb, noun, suffix	1: to be (an affirmation)<br><br>1: to be (location)<br><br>1: sum of money (used to express an exact sum on a receipt, envelope, certificate, etc.)	なる・1
+巴	1470870	ともえ	巴	noun	1: huge comma design	
+菫	2066600	すみれ	菫	noun	1: violet (any flower of genus Viola, esp. the Fuji dawn, Viola mandshurica)	
+侠	1233960	きゃん	侠	adjectival nouns or quasi-adjectives, noun	1: tomboy<br>2: bobby soxer<br>3: flapper	
+倦む	1578290	あぐむ	倦	Godan verb with `mu' ending, intransitive verb	1: to get tired of (doing)<br>2: to lose interest in	
+倦ねる	2024820	あぐねる	倦	Ichidan verb	1: to tire of<br>2: to lose interest in<br>3: to be too much for one<br>4: to find unmanageable<br>5: to be beyond one's control<br>6: to not know what to do with	
+俄	1599920	にわか	俄	adjectival nouns or quasi-adjectives, nouns which may take the genitive case particle `no', noun	1: sudden<br>2: abrupt<br>3: unexpected<br>4: improvised<br>5: hasty,offhand<br><br>1: impromptu skit	俄狂言
+佃	1581870	つくだ	佃	noun	1: cultivated rice field	
+仔	2788170	こ	仔	noun, noun, used as a suffix	1: young (animal)	子・こ・2
+仇	1577910	あだ	仇	noun	1: foe<br>2: enemy<br>3: rival<br><br>1: resentment<br>2: enmity<br>3: grudge<br><br>1: harm<br>2: injury	
+伽	1189430	とぎ	伽	noun	1: nursing<br>2: nurse<br>3: attending<br>4: attendant<br>5: entertainer	
+僅か	1240750	わずか	僅	adjectival nouns or quasi-adjectives, adverb, noun	1: only<br>2: merely<br>3: (a) little<br>4: small quantity	
+僻む	1509110	ひがむ	僻	Godan verb with `mu' ending	1: to be prejudiced<br>2: to be soured<br><br>1: to have an inferiority complex<br><br>1: to be jealous	
+僻する	2760990	へきする	僻	suru verb - special class, intransitive verb	1: to lean to one side<br><br>1: to be warped	
+儲かる	1534490	もうかる	儲	Godan verb with `ru' ending, intransitive verb	1: to be profitable<br>2: to yield a profit	
+儲ける	1534500	もうける	儲	Ichidan verb, transitive verb	1: to profit<br>2: to get<br>3: to earn<br>4: to gain<br><br>1: to have (bear, beget) a child<br><br>1: to have a stroke of luck	
+儲け	1605070	もうけ	儲	noun	1: profit<br>2: earnings	
+偲ぶ	1321590	しのぶ	偲	Godan verb with `bu' ending, transitive verb	1: to recollect<br>2: to remember<br>3: to reminisce<br>4: to be nostalgic for	
+倅	1585440	せがれ	倅	noun	1: son<br><br>1: punk<br>2: brat<br><br>1: penis	
+凄い	1374550	すごい	凄	adjective	1: terrible<br>2: dreadful<br><br>1: amazing (e.g. of strength)<br>2: great (e.g. of skills)<br>3: wonderful<br>4: terrific<br><br>1: to a great extent<br>2: vast (in numbers)	
+凄まじい	1595640	すさまじい	凄	adjective	1: terrific<br>2: fierce<br>3: terrible<br>4: tremendous<br>5: dreadful<br>6: awful<br>7: amazing<br>8: absurd<br>9: cutthroat<br>10: intense	
+冴える	1297050	さえる	冴	Ichidan verb, intransitive verb	1: to be clear (of a sight, sound, colour, etc.)<br>2: to be bright<br>3: to be vivid<br>4: to be crisp<br><br>1: to be clear-headed<br>2: to be alert<br>3: to be on the ball<br>4: to be wide awake<br><br>1: to look upbeat<br>2: to be perky<br>3: to be cheerful<br><br>1: to master (a skill)<br>2: to excel at<br>3: to cleanly execute<br><br>1: to be satisfying<br><br>1: to become frigid<br>2: to become intensely cold	冴えない・2
+凌ぐ	1554200	しのぐ	凌	Godan verb with `gu' ending, transitive verb	1: to endure<br>2: to keep out (e.g. rain)<br>3: to stave off (e.g. starvation)<br><br>1: to pull through<br>2: to get over<br>3: to survive<br><br>1: to surpass<br>2: to outdo<br>3: to excel<br>4: to eclipse<br>5: to defy<br>6: to slight	
+凧	1581560	たこ	凧	noun	1: kite	
+凪	1459650	なぎ	凪	noun	1: calm (at sea)<br>2: lull	
+凪ぐ	1459660	なぐ	凪	Godan verb with `gu' ending, intransitive verb	1: to become calm<br>2: to die down	
+夙に	1337150	つとに	夙	adverb	1: bright and early<br>2: early in life<br>3: long ago<br>4: for a long time	
+剥がれる	1474330	はがれる	剥	Ichidan verb, intransitive verb	1: to come unstuck from	
+剥く	1474370	むく	剥	Godan verb with `ku' ending, transitive verb	1: to peel<br>2: to skin<br>3: to pare<br>4: to hull<br>5: to bare (e.g. fangs)<br>6: to open wide (e.g. eyes)	
+剥ける	1474380	むける	剥	Ichidan verb, intransitive verb	1: to peel off<br>2: to come off<br>3: to be taken off	
+剥げる	1474390	はげる	剥	Ichidan verb, intransitive verb	1: to come off<br>2: to be worn off<br><br>1: to fade<br>2: to discolor<br>3: to discolour	
+剥る	1474420	へずる	剥	Godan verb with `ru' ending, transitive verb	1: to pilfer<br>2: to steal a portion	
+剥ぐ	1582990	はぐ	剥	Godan verb with `gu' ending, transitive verb	1: to tear off<br>2: to peel off<br>3: to rip off<br>4: to strip off<br>5: to skin<br>6: to flay<br>7: to bark<br>8: to disrobe<br><br>1: to strip of (e.g. clothes, rank)<br>2: to deprive of<br>3: to divest	
+剥がす	1600670	はがす	剥	Godan verb with `su' ending, transitive verb	1: to tear off<br>2: to peel off<br>3: to rip off<br>4: to strip off<br>5: to skin<br>6: to flay<br>7: to disrobe<br>8: to deprive of<br>9: to detach<br>10: to disconnect	
+剃る	1581900	そる	剃	Godan verb with `ru' ending, transitive verb	1: to shave	
+匂わせる	1463470	におわせる	匂	Ichidan verb	1: to smell of<br>2: to give off a scent<br>3: to hint at<br>4: to intimate	
+匂い	1599760	におい	匂	noun	1: odour<br>2: odor<br>3: scent<br>4: smell<br>5: stench<br><br>1: aura<br>2: whiff<br>3: smacks of ...<br>4: sense<br>5: flavour<br>6: flavor	
+匂う	1599780	におう	匂	Godan verb with `u' ending, intransitive verb	1: to be fragrant<br>2: to smell (good)<br><br>1: to stink<br>2: to smell (bad)<br><br>1: to glow<br>2: to be bright<br><br>1: to smack of<br>2: to show hints of	
+厭う	1175420	いとう	厭	Godan verb with `u' ending, transitive verb	1: to be loath to<br>2: to balk at (doing)<br>3: to grudge (doing)<br>4: to spare (oneself)<br>5: to be weary of<br>6: to shun<br>7: to dislike (an activity, an environment)<br>8: to hate (an activity)<br><br>1: to take (good) care of	
+厨	1370530	くりや	厨	noun	1: kitchen	
+仄めかす	1563040	ほのめかす	仄	Godan verb with `su' ending, transitive verb	1: to hint at<br>2: to intimate<br>3: to suggest<br>4: to allude to<br>5: to imply	
+仄めく	1563050	ほのめく	仄	Godan verb with `ku' ending, intransitive verb	1: to be seen dimly<br>2: glimmer	
+仄か	1603520	ほのか	仄	adjectival nouns or quasi-adjectives	1: faint<br>2: indistinct<br>3: dim<br><br>1: few<br>2: a little	
+嘲る	1565590	あざける	嘲	Godan verb with `ru' ending, transitive verb	1: to scoff<br>2: to laugh at<br>3: to make fun of<br>4: to ridicule<br>5: to jeer at	
+咎める	1565100	とがめる	咎	Ichidan verb	1: to blame<br>2: to find fault<br>3: to challenge<br>4: to threaten<br>5: to take someone to task<br>6: to aggravate (an injury)	
+咎	2611400	とが	咎	noun	1: error<br>2: mistake<br>3: fault<br><br>1: sin<br>2: wrongdoing<br>3: offense	
+囁く	1565670	ささやく	囁	Godan verb with `ku' ending, intransitive verb	1: to whisper<br>2: to murmur<br><br>1: to rumor<br>2: to rumour	
+喋る	1427510	しゃべる	喋	Godan verb with `ru' ending, intransitive verb	1: to talk<br>2: to chat<br>3: to chatter	
+咽ぶ	2009850	むせぶ	咽	Godan verb with `bu' ending, intransitive verb	1: to be choked<br>2: to be stifled<br>3: to be smothered	
+噂	1172590	うわさ	噂	noun, noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle `no'	1: rumour<br>2: rumor<br>3: report<br>4: hearsay<br>5: gossip<br>6: common talk	
+咳	1204300	せき	咳	noun	1: cough<br>2: coughing<br>3: tussis	
+咳く	1977930	しわぶく	咳	Godan verb with `ku' ending, intransitive verb	1: to cough	
+咳く	2100290	せく	咳	Godan verb with `ku' ending	1: to cough	
+喧しい	1211380	やかましい	喧	adjective	1: noisy<br>2: boisterous<br><br>1: strict<br>2: faultfinding<br>3: carping<br>4: fussy	
+喉	1600280	のど	喉	noun	1: throat<br><br>1: singing voice	
+唾	1408410	つば	唾	noun, noun or participle which takes the aux. verb suru	1: saliva<br>2: spit<br>3: sputum	
+叩く	1416170	たたく	叩	Godan verb with `ku' ending, transitive verb	1: to strike<br>2: to clap<br>3: to knock<br>4: to dust<br>5: to beat<br><br>1: to play drums<br><br>1: to abuse<br>2: to flame (e.g. on the Internet)<br>3: to insult<br><br>1: to use up money<br><br>1: to call<br>2: to invoke (e.g. a function)	
+嘘	1172400	うそ	嘘	noun	1: lie<br>2: falsehood<br>3: incorrect fact<br><br>1: Really!<br>2: Unbelievable!<br>3: No way!	
+啄む	2008990	ついばむ	啄	Godan verb with `mu' ending, transitive verb	1: to pick at<br>2: to peck at	
+呪い	1330100	のろい	呪	noun	1: curse<br>2: spell<br>3: malediction	
+呪い	1330105	まじない	呪	noun	1: charm<br>2: incantation<br>3: spell<br>4: magic formula	
+呪う	1330120	のろう	呪	Godan verb with `u' ending, transitive verb	1: to curse<br>2: to put a curse on<br>3: to detest intensely	
+呪う	2182980	まじなう	呪	Godan verb with `u' ending	1: to pray that one avoids disaster or illness<br>2: to pray<br><br>1: to pray for the death or misfortune of another<br>2: to curse<br><br>1: to treat illness with prayer	
+吠える	1603420	ほえる	吠	Ichidan verb, intransitive verb	1: to bark<br>2: to bay<br>3: to howl<br>4: to bellow<br>5: to roar<br>6: to cry	
+吊るす	1433980	つるす	吊	Godan verb with `su' ending, transitive verb	1: to hang<br>2: to hang up	
+吊る	1434020	つる	吊	Godan verb with `ru' ending	1: to hang<br>2: to suspend (something from something)<br>3: to be hanged (by the neck)<br><br>1: to hoist an opponent off of his feet by his loincloth	
+噛む	1209240	かむ	噛	Godan verb with `mu' ending, transitive verb	1: to bite<br>2: to chew<br>3: to gnaw<br><br>1: to crash against (e.g. of waves)<br>2: to break onto (shore)<br><br>1: to engage (of cogs, zippers, etc.)<br>2: to mesh<br>3: to fit together<br><br>1: to be involved in<br><br>1: to fumble one's words (during a play, broadcast, etc.)<br>2: to falter with one's words<br><br>1: to strongly confute<br>2: to argue down<br>3: to rebuke<br>4: to scold harshly	一枚噛む
+叶う	1208870	かなう	叶	Godan verb with `u' ending	1: to come true (wish)<br><br>1: to be suited<br><br>1: to match (implies competition)<br>2: to rival<br>3: to bear (e.g. I can't bear the heat)	道理に適う
+叶える	1208880	かなえる	叶	Ichidan verb, transitive verb	1: to grant (request, wish)<br>2: to answer (prayer)<br><br>1: to fulfill (conditions)<br>2: to meet (requirements)	
+吃る	1226340	どもる	吃	Godan verb with `ru' ending, intransitive verb	1: to stammer<br>2: to stutter	
+叱る	1319580	しかる	叱	Godan verb with `ru' ending, transitive verb	1: to scold	
+呆ける	1288490	ぼける	呆	Ichidan verb, intransitive verb	1: to grow senile<br>2: to be childish with age<br><br>1: to be mentally slow<br>2: to be befuddled<br><br>1: to become engrossed (in something)	
+呆れる	1515580	あきれる	呆	Ichidan verb, intransitive verb	1: to be amazed<br>2: to be shocked<br>3: to be astonished<br>4: to be astounded<br>5: to be disgusted	
+堆い	2541640	うずたかい	堆	adjective	1: piled up high<br>2: in a heap	
+垢	1277420	あか	垢	noun	1: dirt<br>2: filth<br>3: grime<br><br>1: account (e.g. online service)	アカ
+堰	1955830	せき	堰	noun	1: dam<br>2: weir<br>3: barrier<br>4: sluice	
+姦する	1979360	かんする	姦	suru verb - special class	1: to commit adultery<br>2: to rape	
+妬む	1444380	ねたむ	妬	Godan verb with `mu' ending, transitive verb	1: to be jealous of<br>2: to envy<br>3: to begrudge	
+姪	1532940	めい	姪	noun	1: niece	姪御; 姪子
+姥	2199780	うば	姥	noun	1: elderly woman<br><br>1: noh mask of an old woman	
+姑	1266770	しゅうとめ	姑	noun	1: mother-in-law	舅
+嬉しい	1219510	うれしい	嬉	adjective	1: happy<br>2: glad<br>3: pleasant	
+孕む	1611300	はらむ	孕	Godan verb with `mu' ending, transitive verb, intransitive verb	1: to conceive<br>2: to become pregnant<br><br>1: to get filled with (e.g. sails filled with wind)<br>2: to be swollen with<br><br>1: to contain (e.g. contradiction or danger)<br><br>1: to be swollen and ripe (of a plant ear, head, or sprout)	
+宥める	1540250	なだめる	宥	Ichidan verb, transitive verb	1: to soothe<br>2: to calm<br>3: to pacify	
+寓する	2526140	ぐうする	寓	suru verb - special class, intransitive verb	1: to reside temporarily<br><br>1: to imply	
+塞ぐ	1602590	ふさぐ	塞	Godan verb with `gu' ending, transitive verb	1: to stop up<br>2: to close up<br>3: to block (up)<br>4: to plug up<br>5: to shut up<br>6: to cover (ears, eyes, etc.)<br>7: to close (eyes, mouth)<br><br>1: to stand in the way<br>2: to obstruct<br><br>1: to occupy<br>2: to fill up<br>3: to take up<br><br>1: to perform one's role<br>2: to do one's duty<br><br>1: to feel depressed<br>2: to mope	塞がる・1; 塞がる・2; 塞がる・3; 鬱ぐ・ふさぐ
+屠る	1444390	ほふる	屠	Godan verb with `ru' ending, transitive verb	1: to slaughter<br>2: to massacre<br>3: to defeat<br>4: to butcher	
+屁	1001420	おなら	屁	noun	1: wind<br>2: gas<br>3: fart<br><br>1: something worthless<br>2: something not worth considering	
+屑	1246510	くず	屑	noun, noun or verb acting prenominally	1: waste<br>2: scrap<br>3: garbage<br>4: dregs<br><br>1: chad	
+尻	1358760	しり	尻	noun	1: buttocks<br>2: behind<br>3: rump<br>4: bottom<br><br>1: undersurface<br>2: bottom<br><br>1: last place<br>2: end<br><br>1: consequence	
+屡々	1005580	しばしば	屡	adverb	1: often<br>2: again and again<br>3: frequently	度々・たびたび
+屍	1853420	しかばね	屍	noun	1: corpse<br><br>1: kanji "corpse" radical	尸冠
+嵩む	1372880	かさむ	嵩	Godan verb with `mu' ending, intransitive verb	1: to pile up<br>2: to increase	
+嵩	1956520	かさ	嵩	noun	1: bulk<br>2: volume<br>3: quantity	
+崖	1204380	がけ	崖	noun	1: cliff	
+嵌める	1566420	はめる	嵌	Ichidan verb, transitive verb	1: to insert<br>2: to put in (such that there is a snug fit)<br>3: to button<br>4: to put on (something that envelops, e.g. gloves, ring)<br><br>1: to have sex<br>2: to fuck<br><br>1: to pigeonhole (into a particular category)<br><br>1: to place a ring-shaped object around something (esp. one that restricts freedom, such as handcuffs)<br><br>1: to entrap<br>2: to set someone up (i.e. frame them for a crime, etc.)	
+嵌まる	1601030	はまる	嵌	Godan verb with `ru' ending, intransitive verb	1: to fit<br>2: to get into<br>3: to go into<br><br>1: to be fit for (a job, etc.)<br>2: to be suited for<br>3: to satisfy (conditions)<br><br>1: to fall into<br>2: to plunge into<br>3: to get stuck<br>4: to get caught<br><br>1: to be deceived<br>2: to be taken in<br>3: to fall into a trap<br><br>1: to be addicted to<br>2: to be deep into<br>3: to be crazy about<br>4: to be stuck on	
+幟	1649360	のぼり	幟	noun	1: flag<br>2: banner<br>3: streamer	
+廓	1872820	くるわ	廓	noun, prefix, suffix	1: district<br>2: quarter<br><br>1: enclosure<br>2: area enclosed by earthwork<br><br>1: red-light district<br><br>1: wide and empty	
+庇う	1483060	かばう	庇	Godan verb with `u' ending, transitive verb	1: to protect someone<br>2: to take under one's wing<br>3: to plead for<br>4: to stick up for<br>5: to cover up for someone	
+庇	2057300	ひさし	庇	noun	1: eaves (of roof)<br><br>1: narrow aisle surrounding the core of a temple building<br><br>1: visor (of cap)<br>2: brim<br>3: peak<br><br>1: classic Japanese women's low pompadour hairstyle	庇髪
+鷹	1415510	たか	鷹	noun	1: falcon (Falconidae spp.)<br>2: hawk	
+弥	2580180	いや	弥	adverb	1: more and more<br>2: increasingly<br><br>1: extremely<br>2: very	愈々・いよいよ・1
+弛む	1421580	たるむ	弛	Godan verb with `mu' ending, intransitive verb	1: to slacken<br>2: to loosen<br>3: to relax<br>4: to droop (e.g. loose or flabby skin)<br>5: to sag (ceiling)<br><br>1: to slack off (e.g. one's work, attention)<br>2: to not put one's heart in	
+弛める	2600660	たるめる	弛	Ichidan verb, transitive verb	1: to slacken<br>2: to loosen	
+粥	1209350	かゆ	粥	noun	1: thin rice porridge<br>2: watery cooked rice<br>3: rice gruel<br>4: congee	
+挽く	1482080	ひく	挽	Godan verb with `ku' ending, transitive verb	1: to saw<br><br>1: to grind (e.g. coffee beans)<br>2: to mill	
+扮する	2020510	ふんする	扮	suru verb - special class	1: to disguise oneself<br>2: to be dressed (as someone else)	
+掠める	1551880	かすめる	掠	Ichidan verb, transitive verb	1: to steal<br>2: to rob<br>3: to snatch<br>4: to pocket<br>5: to plunder<br><br>1: to deceive<br>2: to trick<br>3: to cheat<br><br>1: to graze (in passing)<br>2: to skim<br>3: to brush against<br>4: to touch lightly<br><br>1: to appear and quickly disappear (a thought, a smile, etc.)<br>2: to flit (through one's mind, across one's face)<br><br>1: to do (something) while no one is looking<br><br>1: to hint at<br>2: to suggest<br>3: to insinuate	
+掠れる	1551930	かすれる	掠	Ichidan verb, intransitive verb	1: to get blurred<br><br>1: to get hoarse<br>2: to get husky<br><br>1: to graze<br>2: to scrape<br>3: to touch	
+掠る	1636530	かする	掠	Godan verb with `ru' ending, transitive verb	1: to graze<br>2: to touch lightly<br><br>1: to take a percentage<br>2: to exploit<br>3: to squeeze	
+掴む	1433650	つかむ	掴	Godan verb with `mu' ending, transitive verb	1: to seize<br>2: to catch<br>3: to grasp<br>4: to grip<br>5: to grab<br>6: to hold<br>7: to catch hold of<br>8: to lay one's hands on<br>9: to clutch<br><br>1: to understand<br>2: to grasp<br>3: to comprehend	
+捻る	1469530	ひねる	捻	Godan verb with `ru' ending, transitive verb	1: to twist<br>2: to wrench<br>3: to turn (a switch on or off, etc.)<br>4: to wring (a neck)<br><br>1: to puzzle over<br><br>1: to defeat easily	
+捻くる	1602080	ひねくる	捻	Godan verb with `ru' ending, transitive verb	1: to twirl<br>2: to spin<br>3: to fiddle with<br>4: to change wording	
+掻く	1399970	かく	掻	Godan verb with `ku' ending, transitive verb	1: to scratch<br><br>1: to perspire<br><br>1: to shovel<br>2: to paddle	汗をかく
+撰する	2654330	せんする	撰	suru verb - special class, transitive verb	1: to write (prose, etc.)<br><br>1: to compile (an anthology)	
+拭う	1357220	ぬぐう	拭	Godan verb with `u' ending, transitive verb	1: to wipe<br><br>1: to get rid of<br>2: to eliminate (e.g. one's shame)<br>3: to remove (e.g. an impression)<br>4: to erase	
+拭く	1357240	ふく	拭	Godan verb with `ku' ending, transitive verb	1: to wipe<br>2: to dry	
+揃い	1406100	そろい	揃	noun	1: set<br>2: suit<br>3: uniform	
+揃う	1406110	そろう	揃	Godan verb with `u' ending, intransitive verb	1: to become complete<br>2: to be all present<br>3: to be a full set<br>4: to have everything at one's disposal<br><br>1: to be equal<br>2: to be uniform<br><br>1: to gather<br>2: to assemble	
+揃える	1406120	そろえる	揃	Ichidan verb, transitive verb	1: to collect<br>2: to gather<br>3: to get together<br>4: to complete (a collection)<br><br>1: to arrange<br>2: to put in order<br>3: to prepare<br>4: to get ready<br><br>1: to make uniform<br>2: to make even<br>3: to match	
+捌く	1299630	さばく	捌	Godan verb with `ku' ending, transitive verb	1: to handle well<br>2: to process<br><br>1: to sell out (completely)<br>2: to dispose of (all stock)<br><br>1: to prepare<br>2: to arrange<br>3: to sort<br><br>1: to prepare something for cooking<br>2: to dress (meat, etc.)<br>3: to cut and trim (fish)	
+捌ける	1579330	さばける	捌	Ichidan verb, intransitive verb	1: to be in order<br>2: to sell well<br>3: to be sociable<br>4: to flow smoothly	
+捌け	1951790	はけ	捌	noun	1: drainage<br>2: draining	
+捧げる	1516430	ささげる	捧	Ichidan verb, transitive verb	1: to lift up<br>2: to give<br>3: to offer<br>4: to consecrate<br>5: to devote<br>6: to sacrifice<br>7: to dedicate	
+撚る	2019410	よる	撚	Godan verb with `ru' ending, transitive verb	1: to twist (yarn)<br>2: to lay (rope)	
+捗る	1430570	はかどる	捗	Godan verb with `ru' ending, intransitive verb	1: to make progress<br>2: to move right ahead (with the work)<br>3: to advance	
+撫でる	1498290	なでる	撫	Ichidan verb, transitive verb	1: to brush gently<br>2: to stroke<br>3: to caress	
+撒く	1303400	まく	撒	Godan verb with `ku' ending, transitive verb	1: to scatter<br>2: to sprinkle<br>3: to strew<br><br>1: to distribute (handbills, etc.)<br>2: to spread (rumours, etc.)<br><br>1: to give the slip<br>2: to throw off<br>3: to shake off<br>4: to lose	
+抉る	1585570	えぐる	抉	Godan verb with `ru' ending, transitive verb	1: to gouge<br>2: to hollow out<br>3: to bore<br>4: to excavate<br>5: to scoop out<br><br>1: to greatly perturb<br>2: to cause emotional pain<br><br>1: to get to the bottom of things<br>2: to relentlessly bring the truth to light	
+抉る	2262380	こじる	抉	Godan verb with `ru' ending, Ichidan verb, transitive verb	1: to pry<br>2: to prize<br>3: to prise	
+抉る	2262390	くじる	抉	Godan verb with `ru' ending, transitive verb	1: to stick into and move around<br>2: to dig around in<br>3: to pick (i.e. one's teeth)	
+怯える	1236630	おびえる	怯	Ichidan verb, intransitive verb	1: to become frightened<br>2: to be frightened (of)<br>3: to be scared (of)	
+怯む	1236640	ひるむ	怯	Godan verb with `mu' ending, intransitive verb	1: to falter<br>2: to flinch (from)<br>3: to recoil (from)<br>4: to quail (at)	
+惚れる	1288500	ほれる	惚	Ichidan verb, intransitive verb	1: to fall in love<br>2: to be in love<br>3: to be charmed with<br>4: to lose one's heart to	
+憧れる	1453810	あこがれる	憧	Ichidan verb, intransitive verb	1: to long for<br>2: to yearn after<br>3: to admire<br>4: to be attracted by	
+恰も	1208190	あたかも	恰	adverb	1: as if<br>2: as it were<br>3: as though<br><br>1: right then<br>2: just then<br>3: at that moment	
+湧く	1606685	わく	湧	Godan verb with `ku' ending, intransitive verb	1: to well (up)<br>2: to gush forth (of water)<br>3: to spring out<br>4: to surge<br><br>1: to appear (esp. suddenly) (sweat, tears, etc.)<br><br>1: to feel emotions form (joy, bravery, etc.)<br><br>1: to hatch (esp. of parasitic insects, etc.)	
+澪	2255000	みお	澪	noun	1: waterway<br>2: channel<br><br>1: wake (of a ship)	
+漱ぐ	2261070	くちすすぐ	漱	Godan verb with `gu' ending	1: to gargle<br>2: to rinse the mouth	
+滲む	1568800	にじむ	滲	Godan verb with `mu' ending	1: to run<br>2: to blur<br>3: to spread<br>4: to blot<br>5: to ooze	
+淫ら	1170010	みだら	淫	adjectival nouns or quasi-adjectives, noun	1: obscene<br>2: indecent<br>3: lewd<br>4: bawdy<br>5: loose<br>6: improper<br>7: dirty	
+梁	1648740	はり	梁	noun	1: beam<br>2: joist	
+澱む	1612590	よどむ	澱	Godan verb with `mu' ending, intransitive verb	1: to stagnate<br>2: to be stagnant<br>3: to settle<br>4: to deposit<br>5: to be sedimented<br>6: to be precipitated<br>7: to hesitate<br>8: to be sluggish<br>9: to stammer<br>10: to stumble<br>11: to falter	
+澱	2076390	おり	澱	noun	1: dregs<br>2: lees<br>3: grounds<br>4: sediment	
+汝	1631650	うぬ	汝	pronoun, nouns which may take the genitive case particle `no'	1: blockhead!<br>2: you	
+汝	2015140	なんじ	汝	pronoun, nouns which may take the genitive case particle `no'	1: thou<br>2: you	
+汝	2174410	い	汝	noun	1: you	
+汝	2174420	いまし	汝	noun	1: you	
+汝	2174460	なむち	汝	pronoun, nouns which may take the genitive case particle `no'	1: you	
+汝	2174490	みまし	汝	noun	1: you	
+漉く	2117510	すく	漉	Godan verb with `ku' ending, transitive verb	1: to make something (i.e. paper) from wet, pulpy material by spreading it thin and drying it	
+溺れる	1437560	おぼれる	溺	Ichidan verb, intransitive verb	1: to drown<br>2: to nearly drown<br>3: to sink below the surface (of water)<br><br>1: to indulge in<br>2: to lose one's head over something<br>3: to wallow in	
+汀	1436490	みぎわ	汀	noun	1: water's edge<br>2: shore<br>3: waterside	
+鴻	2157630	ひしくい	鴻	noun	1: bean goose (Anser fabalis)	
+溢れる	1167610	あふれる	溢	Ichidan verb, intransitive verb	1: to overflow<br>2: to brim over<br>3: to flood	
+湛える	1982910	たたえる	湛	Ichidan verb, transitive verb	1: to fill (to the brim)<br><br>1: to express (an emotion)<br>2: to look (sad, glad)<br>3: to wear (a smile)	
+潰す	1433820	つぶす	潰	Godan verb with `su' ending, transitive verb	1: to smash<br>2: to crush<br><br>1: to shut down<br><br>1: to thwart<br>2: to block<br><br>1: to kill (time)<br><br>1: to waste (e.g. talents)	
+潰れる	1433830	つぶれる	潰	Ichidan verb, intransitive verb	1: to be crushed<br>2: to be smashed<br>3: to be broken<br>4: to collapse<br><br>1: to become useless<br>2: to cease functioning<br>3: to be wasted (e.g. time)<br><br>1: to go bankrupt<br>2: to go out of business<br>3: to fail	
+灘	1956790	なだ	灘	noun	1: open sea	
+汲む	1229610	くむ	汲	Godan verb with `mu' ending, transitive verb	1: to draw (water)<br>2: to fetch (water)<br>3: to ladle<br>4: to dip<br>5: to scoop<br>6: to pump<br><br>1: to have a drink together<br><br>1: to consider<br>2: to sympathize with<br>3: to sympathise with	
+瀞	1956780	とろ	瀞	noun	1: pool (in a river)	
+溜まり	1552620	たまり	溜	noun	1: pile<br>2: pool<br>3: collection<br><br>1: gathering spot<br><br>1: waiting place for a wrestler beside the ring<br><br>1: liquid runoff from miso preparation<br><br>1: tamari<br>2: variety of rich soy sauce (used for sashimi, etc.)	溜まる; たまり場; 溜まり醤油
+溜める	1552630	ためる	溜	Ichidan verb, transitive verb	1: to amass<br>2: to accumulate<br>3: to store<br><br>1: to leave unpaid	
+溜まる	1552650	たまる	溜	Godan verb with `ru' ending, intransitive verb	1: to collect<br>2: to gather<br>3: to save<br>4: to accumulate<br>5: to pile up	
+溜め	1891920	ため	溜	noun	1: cesspool<br>2: sink<br>3: manure sink	
+濾す	1288330	こす	濾	Godan verb with `su' ending, transitive verb	1: to filter<br>2: to strain	
+濡らす	1467610	ぬらす	濡	Godan verb with `su' ending, transitive verb	1: to wet<br>2: to soak<br>3: to dip	
+濡れる	1467620	ぬれる	濡	Ichidan verb, intransitive verb	1: to get wet	
+釜	1209080	かま	釜	noun	1: iron pot<br>2: kettle	
+斧	1497080	おの	斧	noun	1: axe<br>2: hatchet	
+爺	1584870	じじ	爺	noun	1: old man<br><br>1: old geezer	祖父・2
+狡い	1569240	ずるい	狡	adjective	1: sly<br>2: cunning<br>3: dishonest<br>4: sneaky<br>5: crafty<br>6: unfair<br><br>1: miserly	
+狸	1416770	たぬき	狸	noun	1: tanuki (Nyctereutes procyonoides)<br>2: raccoon dog<br><br>1: sly dog<br>2: sly old fox<br>3: sly fox<br>4: cunning devil<br>5: craftiness<br>6: sly person<br>7: someone who makes evil plans without ever breaking their poker face	
+狼	1560940	おおかみ	狼	noun	1: wolf (Canis lupus)<br><br>1: wolf in sheep's clothing<br>2: womanizer	
+狐	1267340	きつね	狐	noun	1: fox (esp. the red fox, Vulpes vulpes)<br><br>1: fox (i.e. a sly person)<br><br>1: soba or udon topped with deep-fried tofu<br><br>1: light brown	狐うどん・きつねうどん; きつね色
+狙い	1396550	ねらい	狙	noun	1: aim	
+狙う	1396590	ねらう	狙	Godan verb with `u' ending, transitive verb	1: to aim at	
+狒々	1602110	ひひ	狒	noun	1: baboon<br><br>1: lecher<br>2: dirty old man<br>3: skirt-chaser	
+苺	1571460	いちご	苺	noun	1: strawberry (esp. the garden strawberry, Fragaria x ananassa)	
+萩	1474230	はぎ	萩	noun	1: bush clover<br>2: Japanese clover (any flowering plant of genus Lespedeza)<br><br>1: dark red exterior with blue interior (color combination worn in autumn)	襲の色目
+薙ぐ	2065360	なぐ	薙	Godan verb with `gu' ending, transitive verb	1: to mow down<br>2: to scythe down<br>3: to knock someone off their feet	
+蓑	1634010	みの	蓑	noun	1: straw raincoat	
+萎える	1158670	なえる	萎	Ichidan verb, intransitive verb	1: to lose strength<br>2: to become weak<br>3: to waste away<br><br>1: to wither<br>2: to droop	
+萎びる	1158680	しなびる	萎	Ichidan verb, intransitive verb	1: to shrivel (e.g. cut vegetables, skin)<br>2: to wilt<br>3: to fade<br>4: to wither<br>5: to be wizened	
+萎れる	1158690	しおれる	萎	Ichidan verb, intransitive verb	1: to wither<br>2: to wilt<br>3: to droop<br>4: to fade<br><br>1: to be dejected<br>2: to be disheartened<br>3: to be depressed<br>4: to be crestfallen	
+萎む	1427460	しぼむ	萎	Godan verb with `mu' ending, intransitive verb	1: to wither (e.g. flowers, dreams)<br>2: to sag (e.g. balloon, grapes)<br>3: to fade (away)<br>4: to shrivel<br>5: to wilt<br>6: to deflate	
+苔	1411030	こけ	苔	noun	1: moss<br><br>1: short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)	
+蕩ける	1599170	とろける	蕩	Ichidan verb, intransitive verb	1: to melt (to a liquid)<br><br>1: to be enchanted with<br>2: to be charmed<br>3: to be bewitched	
+蕩かす	2476190	とろかす	蕩	Godan verb with `su' ending, transitive verb	1: to melt (steel, etc.)<br>2: to liquefy<br>3: to soften<br><br>1: to melt (one's heart)<br>2: to disarm	
+蔓	2153670	つる	蔓	noun	1: vine<br>2: bine<br>3: tendril<br>4: runner<br><br>1: bow<br>2: temple arm<br>3: sidepiece<br>4: lug arm<br>5: earpiece<br>6: part of a pair of glasses that goes over the ear<br><br>1: connections<br>2: contacts<br>3: influence<br>4: financial supporter	
+蓮	1559200	はす	蓮	noun	1: sacred lotus (Nelumbo nucifera)<br>2: Indian lotus<br>3: lotus<br><br>1: rose of Sharon (Hibiscus syriacus)	木槿
+蕗	1500170	ふき	蕗	noun	1: giant butterbur (Petasites japonicus)<br>2: Japanese sweet coltsfoot	
+藍	1549400	あい	藍	noun	1: dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)<br><br>1: indigo (dye)<br><br>1: indigo (colour)	インジゴ; 藍色
+苛む	1195120	さいなむ	苛	Godan verb with `mu' ending, transitive verb	1: to torment<br>2: to torture<br>3: to harass	
+苛める	1195140	いじめる	苛	Ichidan verb, transitive verb	1: to tease<br>2: to torment<br>3: to persecute<br>4: to chastise	
+蓬	1517830	よもぎ	蓬	noun	1: Japanese mugwort (Artemisia princeps, Artemisia indica var. maximowiczii)<br><br>1: general term for plants in the Artemisia genus<br>2: mugwort<br>3: sagebrush<br>4: wormwood	
+萌える	2013060	もえる	萌	Ichidan verb, intransitive verb	1: to burst into bud<br>2: to sprout<br><br>1: to have a crush<br>2: to be infatuated	
+茅	1209310	かや	茅	noun	1: grass used for thatching<br>2: sedge used for thatching	
+茅	2244580	ちがや	茅	noun	1: cogon grass (Imperata cylindrica)	
+蓋	1204540	ふた	蓋	noun	1: cover<br>2: lid<br>3: cap	
+蓋し	1204550	けだし	蓋	adverb	1: perhaps<br>2: probably	
+葱	1467630	ねぎ	葱	noun	1: Welsh onion (species of scallion, Allium fistulosum)<br>2: green onion<br>3: spring onion	
+蔑む	1510260	さげすむ	蔑	Godan verb with `mu' ending, transitive verb	1: to scorn<br>2: to despise	
+蔑ろ	1510270	ないがしろ	蔑	noun, adjectival nouns or quasi-adjectives	1: (a) slight<br>2: disrespect<br>3: making light (of)<br>4: neglect	
+蔑する	2273450	なみする	蔑	suru verb - special class	1: to set at naught<br>2: to ignore<br>3: to disregard	
+葵	1151180	あおい	葵	noun	1: mallow (any plant of family Malvaceae)<br><br>1: Asarum caulescens (species of wild ginger)<br><br>1: hollyhock	銭葵; 冬葵; 二葉葵; 立葵
+葺く	2568390	ふく	葺	Godan verb with `ku' ending, transitive verb	1: to roof (a house with some material)<br>2: to thatch<br>3: to shingle<br>4: to tile	
+蒔く	2611890	まく	蒔	Godan verb with `ku' ending, transitive verb	1: to sow<br>2: to plant<br>3: to seed<br><br>1: to sprinkle (gold or silver powder on lacquerware)	蒔絵
+芹	1637170	せり	芹	noun	1: Java water dropwort (Oenanthe javanica)<br>2: Japanese parsley	
+苫	2264600	とま	苫	noun	1: woven mat (of sedge, hay, etc.)	
+葛	1208770	くず	葛	noun	1: kudzu (Pueraria lobata) (type of vine)<br>2: (Japanese) arrowroot	
+藁	1562710	わら	藁	noun	1: straw	
+蕪	1499280	かぶ	蕪	noun	1: turnip (Brassica rapa)	
+蒜	2518290	ひる	蒜	noun	1: strong-smelling edible plant (esp. perennials of the family Liliaceae, e.g. Welsh onion, garlic, wild rocambole, etc.)	
+蕨	1562770	わらび	蕨	noun	1: bracken	
+茜	1151200	あかね	茜	noun	1: madder (esp. Japanese madder, Rubia argyi)<br><br>1: madder (red color)	
+菅	2248290	すげ	菅	noun	1: sedge (Cyperaceae spp., esp. members of genus Carex)	
+辿る	1416690	たどる	辿	Godan verb with `ru' ending, transitive verb	1: to follow (road)<br>2: to pursue (course)<br>3: to follow up<br>4: to follow (hyperlink)	
+這う	1474200	はう	這	Godan verb with `u' ending, intransitive verb	1: to creep<br>2: to crawl	爬行
+遥か	1546930	はるか	遥	adjectival nouns or quasi-adjectives, adverb, noun	1: far<br>2: far away<br>3: distant<br>4: remote<br>5: far off	
+迄	1525680	まで	迄	particle	1: until (a time)<br>2: till<br>3: to<br>4: up to<br><br>1: to (a place)<br>2: as far as<br><br>1: to (an extent)<br>2: up to<br>3: so far as<br>4: even<br><br>1: only<br>2: merely	
+隙	1253780	すき	隙	noun	1: gap<br>2: space<br><br>1: break<br>2: interlude<br>3: interval<br><br>1: chink (in one's armor, armour)<br>2: chance<br>3: opportunity<br><br>1: breach (of a relationship between people)	
+隈	2131810	くま	隈	noun	1: corner<br>2: nook<br>3: recess<br><br>1: a shadow<br>2: a shade	
+憑く	1566940	つく	憑	Godan verb with `ku' ending	1: to possess<br>2: to haunt	付く・つく・8
+憑かれる	2220760	つかれる	憑	Ichidan verb, intransitive verb	1: to be possessed	
+惹く	1982820	ひく	惹	Godan verb with `ku' ending	1: to attract<br>2: to captivate	
+悉く	1004570	ことごとく	悉	adverb	1: altogether<br>2: entirely	
+忽ち	1288480	たちまち	忽	adverb	1: at once<br>2: in a moment<br>3: suddenly<br>4: all at once<br>5: quickly<br>6: promptly<br>7: immediately	
+愈々	1587670	いよいよ	愈	adverb	1: more and more<br>2: all the more<br>3: increasingly<br><br>1: at last<br>2: finally<br>3: beyond doubt<br><br>1: (at the) last moment<br>2: worst possible time	
+昴	1567890	すばる	昴	noun	1: Chinese "Hairy Head" constellation (one of the 28 mansions)<br>2: Pleiades<br>3: Seven Sisters	二十八宿; 白虎・びゃっこ・2
+暈し	1567900	ぼかし	暈	noun	1: shading off<br>2: gradation	
+暈す	1567910	ぼかす	暈	Godan verb with `su' ending, transitive verb	1: to shade off<br>2: to obscure	
+暈	1957130	かさ	暈	noun	1: astronomical halo (ring, etc.)	
+晒	1593900	さらし	晒	noun	1: bleaching<br>2: bleached cotton	
+晒す	1593910	さらす	晒	Godan verb with `su' ending, transitive verb	1: to expose (to the air, to the public, to danger, etc.)<br><br>1: to bleach<br>2: to refine	
+曙	1343530	あけぼの	曙	noun	1: dawn<br>2: daybreak<br>3: beginning	
+股	1267460	また	股	noun	1: crotch<br>2: crutch<br>3: groin<br>4: thigh<br><br>1: fork (in a tree, road, river, etc.)<br>2: tines (of a fork)	
+股	1605310	もも	股	noun, nouns which may take the genitive case particle `no'	1: thigh<br><br>1: femoral	
+膿	1470560	うみ	膿	noun	1: pus	
+膿む	1470570	うむ	膿	Godan verb with `mu' ending, intransitive verb	1: to fester<br>2: to form pus	
+臆する	1643610	おくする	臆	suru verb - special class, intransitive verb	1: to be hesitant<br>2: to feel timid	
+膝	1487320	ひざ	膝	noun	1: knee<br>2: lap	
+脆い	1382220	もろい	脆	adjective	1: brittle<br>2: fragile<br>3: tender-hearted	
+肋	1561580	あばら	肋	noun	1: rib<br>2: rib cage	あばら骨
+肘	1487380	ひじ	肘	noun	1: elbow	
+腫れる	1328910	はれる	腫	Ichidan verb, intransitive verb	1: to swell (from inflammation)<br>2: to become swollen	
+腫れ	1952290	はれ	腫	noun	1: swelling<br>2: boil	
+腫らす	2038860	はらす	腫	Godan verb with `su' ending, transitive verb	1: to cause to swell<br>2: to inflame	
+楓	2061900	かえで	楓	noun	1: maple (tree) (Acer spp.)	
+枕	1524860	まくら	枕	noun, noun, used as a suffix	1: pillow<br>2: bolster<br><br>1: introduction (e.g. to a rakugo story)<br>2: lead-in	
+榛	2066150	はしばみ	榛	noun	1: Asian hazel (Corylus heterophylla var. thunbergii)<br>2: Siberian hazel	
+榛	2447960	はり	榛	noun	1: Japanese alder (Alnus japonica)	榛の木
+櫛	1246490	くし	櫛	noun	1: comb	
+槌	1956700	つち	槌	noun	1: hammer<br>2: mallet<br>3: sledge(hammer)<br>4: gavel	
+柿	1204810	かき	柿	noun	1: kaki<br>2: Japanese persimmon (Diospyros kaki)	
+桁	1253800	けた	桁	noun	1: column<br>2: beam<br>3: girder<br>4: crossbeam<br>5: spar<br>6: yard<br><br>1: digit<br>2: decade<br>3: order of magnitude	
+杭	1279450	くい	杭	noun	1: stake<br>2: post<br>3: pile<br>4: picket<br><br>1: stump	株・くいぜ
+柊	1922100	ひいらぎ	柊	noun	1: holly olive (Osmanthus heterophyllus)<br>2: false holly<br><br>1: holly<br><br>1: spotnape ponyfish (Leiognathus nuchalis)	西洋柊
+柚	1605750	ゆず	柚	noun	1: yuzu (species of aromatic Asiatic citron, Citrus junos)	
+栂	2730420	つが	栂	noun	1: southern Japanese hemlock (species of conifer native to Japan, Tsuga sieboldii)	
+榊	1297160	さかき	榊	noun	1: sakaki (species of evergreen sacred to Shinto, Cleyera japonica)<br><br>1: evergreen (esp. one planted or used at a shrine)	
+樫	1207690	かし	樫	noun	1: evergreen oak	
+槙	1575640	まき	槙	noun	1: yew plum pine (Podocarpus macrophyllus)	犬槙
+楢	2148590	なら	楢	noun	1: oak (esp. Quercus serrata)	
+橘	1226460	たちばな	橘	noun	1: tachibana (inedible citrus, Citrus tachibana)	
+棲む	1887210	すむ	棲	Godan verb with `mu' ending, intransitive verb	1: to live (of animals)<br>2: to inhabit<br>3: to nest	住む
+梶	2200110	かじ	梶	noun	1: paper mulberry (Broussonetia papyrifera)	梶の木
+杵	1956060	きね	杵	noun	1: mallet<br>2: pestle<br>3: pounder	
+杖	1356620	つえ	杖	noun	1: cane<br>2: walking stick<br>3: staff<br>4: wand	
+樽	1633680	たる	樽	noun	1: cask<br>2: barrel	
+柵	2137050	しがらみ	柵	noun	1: weir<br><br>1: bonds<br>2: fetters<br>3: ties of obligation	
+櫓	1559990	やぐら	櫓	noun	1: turret<br>2: watchtower<br><br>1: high wooden stage<br>2: scaffolding<br><br>1: wooden frame (of a kotatsu)<br><br>1: weapons storehouse	炬燵
+李	1549830	すもも	李	noun	1: Japanese plum<br>2: prune<br>3: Prunus salicina	
+榎	2036490	えのき	榎	noun	1: Japanese hackberry (Celtis sinensis var. japonica)<br>2: Chinese nettle tree<br><br>1: enoki mushroom (Flammulina velutipes)<br>2: winter mushroom<br>3: velvet shank<br>4: enokitake<br>5: enokidake	
+樺	1208890	かば	樺	noun	1: birch (esp. Japanese white birch)	
+槍	1400500	やり	槍	noun	1: spear<br>2: lance<br><br>1: javelin<br><br>1: lance (shogi piece)<br><br>1: jeering	香車
+梱	2414730	こり	梱	noun	1: wrapped package<br>2: bale	
+梱る	2578060	こうる	梱	Godan verb with `ru' ending, transitive verb	1: to pack<br>2: to box<br>3: to package	行李
+樋	1485620	とい	樋	noun	1: trough<br>2: gutter<br>3: water pipe<br>4: flume<br>5: chute<br><br>1: coulisse (of a sword blade)	
+橇	1573500	そり	橇	noun	1: sleigh<br>2: sled<br>3: sledge	
+橇	2002100	かんじき	橇	noun	1: snow-shoes	
+栞	1568040	しおり	栞	noun	1: bookmark<br><br>1: guidebook	
+桶	1182830	おけ	桶	noun	1: bucket	
+樒	2446670	しきみ	樒	noun	1: Japanese star anise (Illicium anisatum)	
+毬	2016130	いが	毬	noun	1: burr (e.g.chestnut)<br>2: bur<br>3: cupule<br>4: case	
+焚く	1596840	たく	焚	Godan verb with `ku' ending, transitive verb	1: to burn<br>2: to kindle<br>3: to build a fire<br><br>1: to heat (a bath, stove, etc.)<br><br>1: to use (a camera flash)	薫く・たく
+煽てる	1391600	おだてる	煽	Ichidan verb, transitive verb	1: to flatter<br>2: to soft-soap<br><br>1: to instigate<br>2: to stir up	
+煽る	1391630	あおる	煽	Godan verb with `ru' ending	1: to fan (oneself, flames, etc.)<br><br>1: to flap<br>2: to be shaken (by wind)<br><br>1: to instigate<br>2: to stir up<br>3: to agitate<br>4: to induce<br><br>1: to buy a large amount in order to cause prices to rise<br><br>1: to take a photo from a low angle<br><br>1: to tailgate	煽り・あおり・5; 煽り・あおり・4
+煤	1473540	すす	煤	noun	1: soot	
+灼た	2218040	あらた	灼	adjectival nouns or quasi-adjectives	1: clear<br>2: vivid<br>3: brilliant<br><br>1: prominent<br>2: obvious<br>3: evident	灼たか
+灼く	2821180	やく	灼	Godan verb with `ku' ending, transitive verb	1: to tan (i.e. suntan)<br>2: to burn	焼く・5
+煎じる	1391410	せんじる	煎	Ichidan verb, transitive verb	1: to boil<br>2: to decoct<br>3: to infuse	
+煎る	1391500	いる	煎	Godan verb with `ru' ending, transitive verb	1: to parch<br>2: to fry<br>3: to fire<br>4: to broil<br>5: to roast<br>6: to boil down (in oil)	
+弄する	1560680	ろうする	弄	suru verb - special class	1: to play with<br>2: to joke<br>3: to use (esp. trick, sophistry, etc.)<br><br>1: to deride<br>2: to scoff at<br>3: to make fun of	
+弄る	1560700	いじる	弄	Godan verb with `ru' ending, transitive verb	1: to touch<br>2: to tamper with<br><br>1: to grope about<br>2: to feel for something	
+弄くる	2007290	いじくる	弄	Godan verb with `ru' ending, transitive verb	1: to finger<br>2: to tamper (with)	
+畏まる	1157440	かしこまる	畏	Godan verb with `ru' ending, intransitive verb	1: to obey respectfully<br>2: to humble oneself<br>3: to sit straight (upright, respectfully, attentively)	
+畏	2259870	かしこ	畏	expressions	1: yours sincerely (used to sign off on letters)<br>2: respectfully yours	
+畦	1250980	あぜ	畦	noun	1: ridge of earth between rice fields<br><br>1: ridge between grooves in threshold or lintel<br><br>1: footpath between rice fields<br>2: causeway	畦道
+痒い	1569570	かゆい	痒	adjective	1: itchy<br>2: itching	
+痒がる	2085460	かゆがる	痒	Godan verb with `ru' ending, intransitive verb	1: to complain of itching<br>2: to be bothered by an itch (or rash, etc.)<br>3: to feel itchy<br>4: to have an itch (or rash, etc.)<br>5: to itch	
+痩せる	1605510	やせる	痩	Ichidan verb, intransitive verb	1: to become thin<br>2: to lose weight<br>3: to reduce (one's) weight<br>4: to slim<br><br>1: to be barren<br>2: to be infertile<br>3: to be sterile	
+痺れる	1569620	しびれる	痺	Ichidan verb, intransitive verb	1: to become numb<br>2: to go to sleep (e.g. a limb)<br><br>1: to be excited<br>2: to be titillated<br>3: to be mesmerized	
+眩しい	1569790	まぶしい	眩	adjective	1: dazzling<br>2: radiant	
+眩む	1980700	くらむ	眩	Godan verb with `mu' ending, intransitive verb	1: to be dazzled by<br>2: to be dizzied by<br>3: to be disoriented by<br><br>1: to be lost in (greed, lust, etc.)<br><br>1: to become dark	
+眩い	2009830	まばゆい	眩	adjective	1: dazzling<br>2: glaring<br>3: dazzlingly beautiful	
+眩めく	2183290	くるめく	眩	Godan verb with `ku' ending, intransitive verb	1: to spin<br>2: to revolve<br>3: to twirl<br><br>1: to be dizzy<br>2: to feel faint<br><br>1: to bustle about	
+眩う	2183300	まう	眩	Godan verb with `u' ending, intransitive verb	1: to be dizzy<br>2: to be vertiginous	目が回る
+眉	1486270	まゆ	眉	noun	1: eyebrow<br>2: eyebrows	
+雉	1591200	きじ	雉	noun	1: green pheasant (Phasianus versicolor)<br>2: Japanese pheasant	
+矩	2243600	かね	矩	noun	1: carpenter's square<br><br>1: perpendicularity<br>2: straightness<br><br>1: model<br>2: standard	矩尺
+硯	1956220	すずり	硯	noun	1: inkstone	
+磯	1955820	いそ	磯	noun, adjectival nouns or quasi-adjectives	1: (rocky) beach<br>2: seashore	
+秤	1474220	はかり	秤	noun	1: scales<br>2: weighing machine	
+黍	1226580	きび	黍	noun	1: (common) millet (Panicum miliaceium)<br>2: proso millet	
+禿	1455410	はげ	禿	noun	1: baldness<br>2: bald head<br><br>1: children's hairstyle of short untied hair<br>2: children with short untied hair<br><br>1: young girl working as a servant for a high-class prostitute (Edo period)<br><br>1: idiot<br>2: moron	太夫・3; 天神・6
+禿げる	1455420	はげる	禿	Ichidan verb, intransitive verb	1: to lose hair<br>2: to become bald<br><br>1: to become bare (e.g. a mountain becomes bare of trees)	
+禿びる	2432160	ちびる	禿	Ichidan verb, intransitive verb	1: to get blunt<br>2: to dull<br>3: to wear out	
+稗	1922750	ひえ	稗	noun	1: barnyard millet (Echinochloa utilis)<br>2: Japanese millet<br>3: sanwa millet	
+稀	1604280	まれ	稀	adjectival nouns or quasi-adjectives	1: rare<br>2: seldom	
+窺う	1172230	うかがう	窺	Godan verb with `u' ending, transitive verb	1: to peep (through)<br>2: to peek<br>3: to examine (esp. covertly)<br><br>1: to await (one's chance)<br><br>1: to guess<br>2: to infer<br>3: to gather<br>4: to surmise	
+窄める	1579280	すぼめる	窄	Ichidan verb, transitive verb	1: to make narrower<br>2: to shut (an umbrella)<br>3: to shrug (one's shoulders)<br>4: to purse (one's lips)	
+穿つ	1854810	うがつ	穿	Godan verb with `tsu' ending, transitive verb	1: to drill<br>2: to bore<br>3: to pierce<br>4: to put on<br>5: to wear<br>6: to be true to (nature)<br>7: to hit (the mark)	
+竃	1928090	かまど	竃	noun	1: kitchen range<br>2: cooking stove<br>3: hearth<br>4: (kitchen) furnace	
+颯と	1005200	さっと	颯	adverb	1: quickly (esp. actions)<br><br>1: suddenly (esp. wind, rain, etc.)	
+妾	1347580	わらわ	妾	pronoun, nouns which may take the genitive case particle `no'	1: I<br>2: me	
+妾	2256130	めかけ	妾	noun	1: mistress<br>2: kept woman<br>3: concubine	
+裾	1373610	すそ	裾	noun	1: (trouser) cuff<br>2: (skirt) hem<br>3: shirttail<br>4: cut edge of a hairdo<br>5: fringe<br>6: foot of mountain	
+袷	1153660	あわせ	袷	noun	1: lined kimono	
+袴	1267440	はかま	袴	noun	1: man's formal divided skirt	
+襖	1181720	ふすま	襖	noun	1: fusuma<br>2: Japanese sliding screen	
+襖	2086380	あお	襖	noun	1: everyday garment worn by men in ancient Japan	
+筏	1638320	いかだ	筏	noun	1: raft<br><br>1: forearm protector<br><br>1: skewered baby-eel kabayaki	かば焼き
+簾	1559100	すだれ	簾	noun	1: bamboo screen<br>2: rattan blind<br><br>1: bamboo mat (for rolling sushi)	
+竿	1214060	さお	竿	noun, counter	1: rod<br>2: pole<br><br>1: neck (of a shamisen, etc.)<br>2: shamisen<br><br>1: beam (i.e. the crossbar of a balance)<br><br>1: single line (esp. as a flying formation for geese)<br><br>1: penis<br><br>1: counter for flags (on poles)<br>2: counter for long, thin Japanese sweets (e.g. youkan)	
+箆	1510300	へら	箆	noun	1: spatula	
+箆	2578110	の	箆	noun	1: shaft (of an arrow)<br><br>1: arrow bamboo (Pseudosasa japonica)	矢竹・2
+篠	2257010	しの	篠	noun	1: thin-culmed dwarf bamboo (growing in clusters)<br><br>1: Japanese transverse bamboo flute (high-pitched; usu. with seven holes)<br><br>1: sliver (strand of loose fibers)	篠竹・しのだけ; 篠笛
+箸	1476410	はし	箸	noun	1: chopsticks	
+箕	2740580	み	箕	noun	1: winnow<br>2: winnowing basket<br>3: winnowing fan	
+筈	1476430	はず	筈	noun	1: expectation that something took place, will take place or was in some state<br>2: it should be so<br>3: bound to be<br>4: expected to be<br>5: must be<br><br>1: nock (of a bow)<br><br>1: nock (of an arrow)<br><br>1: nock-shaped grip (between thumb and forefinger)<br><br>1: wooden frame on the tip of the mast of a Japanese ship that prevents the hawser from falling out	はず押し・はずおし
+糊	1267400	のり	糊	noun	1: paste<br>2: glue<br>3: clothing starch	
+籾	1535890	もみ	籾	noun	1: unhulled rice<br>2: rice in the husk<br>3: paddy<br><br>1: rice husks<br>2: chaff	籾殻
+糠	1918540	ぬか	糠	noun	1: rice-bran	
+糞	1504900	くそ	糞	interjection, noun, noun or verb acting prenominally	1: bullshit<br>2: shit<br>3: damn<br><br>1: feces<br>2: excrement<br>3: dung<br><br>1: damn (adds emphasis and or annoyance to next word, e.g. damn hot, damn kids, etc.)<br>2: damned	
+粟	1153640	あわ	粟	noun	1: foxtail millet (Setaria italica)<br>2: Italian millet (also Hungarian, German)	
+繋ぐ	1251900	つなぐ	繋	Godan verb with `gu' ending, transitive verb	1: to tie<br>2: to fasten<br>3: to connect<br>4: to transfer (phone call)	
+絆	1570420	きずな	絆	noun	1: bonds (between people)<br>2: (emotional) ties<br>3: relationship<br>4: connection<br>5: link<br><br>1: tether<br>2: fetters	
+紐	1487970	ひも	紐	noun	1: string<br>2: cord<br><br>1: man who is financially dependent on a woman (such as a gigolo or, in the case of a prostitute, a pimp)<br>2: pimp	
+纏う	1440900	まとう	纏	Godan verb with `u' ending	1: to put on<br>2: to wear<br>3: to be clad in	
+纏める	1440930	まとめる	纏	Ichidan verb, transitive verb	1: to collect<br>2: to put (it all) together<br>3: to integrate<br>4: to consolidate<br>5: to unify<br><br>1: to summarize<br>2: to aggregate<br><br>1: to bring to a conclusion<br>2: to finalize<br>3: to settle<br>4: to put in order<br><br>1: to establish<br>2: to decide	
+纏わる	1440940	まつわる	纏	Godan verb with `ru' ending, intransitive verb	1: to coil around<br>2: to follow about<br><br>1: to be related to<br>2: to concern<br>3: to be associated with	
+纏まる	1611640	まとまる	纏	Godan verb with `ru' ending, intransitive verb	1: to be collected<br>2: to be settled<br>3: to be in order	
+紬	1956710	つむぎ	紬	noun	1: pongee (soft thin cloth woven from raw silk)	
+綻びる	1419000	ほころびる	綻	Ichidan verb, intransitive verb	1: to come apart at the seams<br>2: to be ripped<br>3: to be torn<br><br>1: to begin to open<br>2: to begin to bloom<br><br>1: to smile broadly<br>2: to break into a smile	綻ぶ・ほころぶ・1; 綻ぶ・ほころぶ・2
+縞	1321670	しま	縞	noun, noun, used as a suffix, nouns which may take the genitive case particle `no'	1: stripe<br>2: bar<br>3: streak	
+舵	1408990	かじ	舵	noun	1: rudder<br>2: helm	
+聡い	2087260	さとい	聡	adjective	1: smart<br>2: sensitive<br>3: discerning	
+耽る	1419010	ふける	耽	Godan verb with `ru' ending, intransitive verb, auxiliary verb	1: to indulge in<br>2: to give oneself up to<br>3: to be obsessed by<br><br>1: to be engrossed in<br>2: to be lost in<br>3: to be absorbed in	読み耽る
+蚤	1470860	のみ	蚤	noun	1: flea	
+蟹	1202410	かに	蟹	noun	1: crab	
+蝿	1474210	はえ	蝿	noun	1: fly (of infraorder Muscomorpha)<br><br>1: person of no worth<br>2: pisher<br>3: scrub	
+蟻	1225940	あり	蟻	noun	1: ant	
+蜂	1517840	はち	蜂	noun	1: bee<br>2: wasp<br>3: hornet	
+蛸	1596910	たこ	蛸	noun	1: octopus	
+螺	2439040	にし	螺	noun	1: small spiral-shelled snail	
+蝉	1387080	せみ	蝉	noun	1: cicada<br>2: locust<br><br>1: small-sized pulley	
+蛙	1577460	かえる	蛙	noun	1: frog<br><br>1: kajika frog (Buergeria buergeri)	河鹿蛙
+蛤	1478350	はまぐり	蛤	noun	1: common orient clam (Meretrix lusoria)	
+蛭	1490510	ひる	蛭	noun	1: leech	
+罵る	1471520	ののしる	罵	Godan verb with `ru' ending, transitive verb	1: to abuse (verbally)<br>2: to curse at<br>3: to shout abuse at<br>4: to speak ill of	
+截る	2107690	きる	截	Godan verb with `ru' ending	1: to cut (e.g. cloth)	
+哉	1579220	かな	哉	particle	1: how!<br>2: what!<br>3: alas!	
+諄い	1572760	くどい	諄	adjective	1: verbose<br>2: importunate<br>3: wordy<br>4: repetitious<br>5: long-winded<br><br>1: heavy (taste)<br>2: rich<br>3: strong<br>4: cloying<br>5: gaudy<br>6: loud	
+謎	1459690	なぞ	謎	noun, nouns which may take the genitive case particle `no'	1: riddle<br>2: puzzle<br>3: enigma<br>4: mystery<br><br>1: enigmatic<br>2: mysterious	
+誰	1416830	だれ	誰	pronoun, nouns which may take the genitive case particle `no'	1: who	
+詣でる	2182610	もうでる	詣	Ichidan verb	1: to make a pilgrimage	
+諦める	1436730	あきらめる	諦	Ichidan verb, transitive verb	1: to give up<br>2: to abandon (hope, plans)<br>3: to resign oneself (to)	
+誼	1608940	よしみ	誼	noun	1: friendship<br>2: friendly relations<br>3: connection<br>4: relation<br>5: intimacy	
+詫び	1562670	わび	詫	noun	1: apology<br>2: excuse	
+詫びる	1606790	わびる	詫	Ichidan verb, intransitive verb	1: to apologize<br>2: to apologise	
+諺	1264600	ことわざ	諺	noun	1: proverb<br>2: maxim	
+謂	2672300	いい	謂	noun	1: what was said<br>2: what it means<br>3: origin of a story (or tradition, etc.)	
+轟く	1285710	とどろく	轟	Godan verb with `ku' ending, intransitive verb	1: to roar<br><br>1: to be well-known<br>2: to be famous<br><br>1: to palpitate<br>2: to throb	
+轟かす	2106710	とどろかす	轟	Godan verb with `su' ending, transitive verb	1: to make a thundering sound<br>2: to make roar	
+輻	2180090	や	輻	noun	1: spoke	スポーク
+貰う	1535910	もらう	貰	Godan verb with `u' ending, transitive verb	1: to receive<br>2: to take<br>3: to accept<br><br>1: to get somebody to do something	
+賂	2513770	まいない	賂	noun	1: bribe	
+賑やか	1463480	にぎやか	賑	adjectival nouns or quasi-adjectives	1: bustling<br>2: busy<br>3: lively	
+賑わい	1463490	にぎわい	賑	noun	1: prosperity<br>2: bustle<br>3: activity<br>4: crowd<br>5: turnout	
+賑わう	1463500	にぎわう	賑	Godan verb with `u' ending, intransitive verb	1: to prosper<br>2: to flourish<br>3: to do thriving business<br>4: to be crowded with people	
+賑わす	1463510	にぎわす	賑	Godan verb with `su' ending, transitive verb	1: to make prosperous<br>2: to enliven	
+躓く	1573400	つまずく	躓	Godan verb with `ku' ending, intransitive verb	1: to stumble<br>2: to trip<br><br>1: to fail	
+蹄	1436750	ひづめ	蹄	noun	1: hoof	
+蹴る	1333400	ける	蹴	Godan verb with `ru' ending, transitive verb	1: to kick<br><br>1: to refuse<br>2: to reject	
+跨ぐ	1267830	またぐ	跨	Godan verb with `gu' ending, transitive verb	1: to step over<br>2: to step across<br>3: to stride over<br>4: to stride across<br>5: to cross<br><br>1: to stretch over<br>2: to span<br>3: to bridge<br>4: to saddle<br>5: to straddle	
+跨る	1603970	またがる	跨	Godan verb with `ru' ending, intransitive verb	1: to extend over<br>2: to extend into<br><br>1: to straddle	
+跪く	1573270	ひざまずく	跪	Godan verb with `ku' ending, intransitive verb	1: to kneel	
+醤	2562270	ひしお	醤	noun	1: paste similar to miso made from koji mold and salt water<br><br>1: watery mash left over from making soy sauce	
+麹	1285730	こうじ	麹	noun	1: mould grown on rice, barley, beans, etc. as a starter to make sake, miso, soy sauce, etc. (mold)<br>2: malted rice<br>3: malt	
+鋤	1345620	すき	鋤	noun	1: spade<br><br>1: plough<br>2: plow	唐鋤
+鋤く	2602570	すく	鋤	Godan verb with `ku' ending, transitive verb	1: to plough<br>2: to plow<br>3: to hoe<br>4: to till	
+鍋	1459720	なべ	鍋	noun, noun, used as a suffix	1: saucepan<br>2: pot<br><br>1: stew<br>2: hot pot	
+鏑	2228110	かぶら	鏑	noun	1: turnip-shaped whistle made of hollowed-out wood or deer horn (attached to an arrow to sound when fired)<br><br>1: arrow with such a whistle attached	蕪; 鏑矢
+鋸	1232930	のこぎり	鋸	noun	1: saw<br><br>1: musical saw	
+錐	1372690	きり	錐	noun	1: drill<br>2: auger	
+鍵	1260490	かぎ	鍵	noun	1: key<br><br>1: lock	錠
+鍬	1247180	くわ	鍬	noun	1: hoe	
+鋲	1956890	びょう	鋲	noun	1: rivet<br>2: tack<br>3: thumbtack<br>4: drawing-pin<br>5: hobnail	
+錫	1324280	すず	錫	noun	1: tin (Sn)	
+錨	1609110	いかり	錨	noun	1: anchor	
+釘	1436840	くぎ	釘	noun	1: nail (i.e. small metal spike)	
+鉦	1633470	かね	鉦	noun	1: gong<br>2: handbell	
+錆	1593820	さび	錆	noun	1: rust	
+鋏	1573820	はさみ	鋏	noun	1: scissors<br>2: shears<br>3: clippers<br><br>1: hole punch	螯
+閃き	1392470	ひらめき	閃	noun	1: flair<br>2: flash<br><br>1: insight<br><br>1: waving (e.g. of a flag in the wind)	
+閃く	1392480	ひらめく	閃	Godan verb with `ku' ending, intransitive verb	1: to flash (lightning, etc.)<br>2: to flicker (lights)<br>3: to glitter<br><br>1: to wave<br>2: to undulate<br><br>1: to hit on a good idea<br>2: to occur to someone	
+悶える	1536080	もだえる	悶	Ichidan verb, intransitive verb	1: to be in agony<br>2: to worry	
+闇	1154910	やみ	闇	noun, nouns which may take the genitive case particle `no'	1: darkness<br>2: the dark<br>3: dark<br><br>1: bewilderment<br>2: despair<br>3: hopelessness<br><br>1: black-marketeering<br>2: shady<br>3: illegal<br>4: under-the-table	
+霞	1196510	かすみ	霞	noun	1: haze (esp. in spring)<br>2: mist<br><br>1: dimness (of sight)	霧・1
+霞む	1196520	かすむ	霞	Godan verb with `mu' ending, intransitive verb	1: to grow hazy<br>2: to be misty<br><br>1: to get blurry<br><br>1: to be overshadowed	
+鞍	1955780	くら	鞍	noun	1: saddle	
+鞭	1633970	むち	鞭	noun	1: whip<br>2: lash<br>3: scourge<br><br>1: stick<br>2: cane<br>3: rod<br>4: pointer	
+鞘	1352120	さや	鞘	noun	1: scabbard<br><br>1: cap (on pen, brush, etc.)<br><br>1: margin (between two prices)<br>2: spread<br>3: markup<br>4: commission<br><br>1: enclosure<br>2: outer fence	
+鞄	1208910	かばん	鞄	noun	1: bag<br>2: satchel<br>3: briefcase<br>4: basket	
+鞠	1226280	まり	鞠	noun	1: ball (for sport, games, etc.)<br><br>1: kemari<br>2: type of football played by courtiers in ancient Japan	蹴鞠
+頓に	1954120	とみに	頓	adverb	1: suddenly<br>2: all at once<br>3: rapidly	
+頓と	2097060	とんと	頓	adverb	1: completely<br><br>1: not at all	
+頃	1579080	ころ	頃	noun, adverbial noun, noun, used as a suffix	1: (approximate) time<br>2: around<br>3: about<br>4: toward<br><br>1: suitable time (or condition)<br><br>1: time of year<br>2: season	食べ頃
+頬	1584160	ほお	頬	noun	1: cheek (of face)	
+頗る	1373550	すこぶる	頗	adverb	1: extremely<br>2: very much	
+顎	1207560	あご	顎	noun, nouns which may take the genitive case particle `no'	1: chin<br>2: jaw	
+餌	1173340	えさ	餌	noun	1: (animal) feed<br>2: fodder<br><br>1: bait<br>2: lure<br>3: enticement	
+蝕む	1358730	むしばむ	蝕	Godan verb with `mu' ending, intransitive verb	1: to be worm-eaten<br>2: to be eaten by worms<br><br>1: to affect adversely<br>2: to spoil<br>3: to ruin<br>4: to undermine<br>5: to gnaw at (one's heart, body, etc.)<br>6: to eat into	
+飴	1153520	あめ	飴	noun	1: (hard) candy<br>2: toffee<br><br>1: rice-sugar<br>2: sugar made from the starch of rice, potatoes, etc.<br><br>1: amber<br>2: yellowish-brown	飴色
+餅	1535790	もち	餅	noun	1: sticky rice cake	糯
+馳せる	1949560	はせる	馳	Ichidan verb, intransitive verb	1: to run<br>2: to hurry (when going somewhere)<br><br>1: to drive (a car) quickly<br>2: to ride fast (on a horse)<br><br>1: to win (fame)	名をはせる
+騙す	1574550	だます	騙	Godan verb with `su' ending, transitive verb	1: to trick<br>2: to cheat<br>3: to deceive	
+騙る	2064050	かたる	騙	Godan verb with `ru' ending, transitive verb	1: to swindle<br>2: to cheat<br>3: to take (something) away by deception<br><br>1: to misrepresent oneself (as)<br>2: to lie (e.g. about one's name or status)<br>3: to falsify (e.g. a seal)<br>4: to assume (a name)<br>5: to pretend (to be)	
+鰻	1172500	うなぎ	鰻	noun	1: eel (esp. the Japanese eel, Anguilla japonica)	
+鯛	1411550	たい	鯛	noun	1: sea bream (Sparidae)<br>2: porgy<br><br>1: tai (species of reddish-brown Pacific sea bream, Pagrus major)	
+鰯	1587860	いわし	鰯	noun	1: pilchard (esp. the Japanese pilchard, Sardinops melanostictus)<br>2: sardine (esp. the sardine of the Japanese pilchard)	
+鱒	1524900	ます	鱒	noun	1: trout<br>2: sea trout	
+鮭	1579300	さけ	鮭	noun	1: salmon (Salmonidae spp.)<br><br>1: chum salmon (Oncorhynchus keta)	
+鮪	1524880	まぐろ	鮪	noun	1: tuna (edible fish, Thunnus spp.)<br>2: tunny<br><br>1: Pacific bluefin tuna (edible fish, Thunnus orientalis)<br><br>1: dead lay<br>2: person who is inactive during sexual intercourse	
+鮎	1586720	あゆ	鮎	noun	1: sweetfish (Plecoglossus altivelis altivelis)<br>2: ayu<br><br>1: salmon	鮭・1
+鯵	1586400	あじ	鯵	noun	1: horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus)<br>2: jack mackerel<br>3: pompano<br>4: scad	
+鱈	1416790	たら	鱈	noun	1: gadid (any fish of the family Gadidae, incl. cod, haddock, whiting and pollack)<br><br>1: Pacific cod (Gadus macrocephalus)	真鱈・まだら
+鯖	1299610	さば	鯖	noun	1: mackerel (esp. the chub mackerel, Scomber japonicus)<br><br>1: server (in an online game)	サーバ
+鮫	1299670	さめ	鮫	noun	1: shark	
+鰹	1208850	かつお	鰹	noun	1: skipjack tuna<br>2: bonito (Katsuwonus pelamis)	
+鰍	1207700	かじか	鰍	noun	1: sculpin (any fish of family Cottidae, incl. the bullheads and the miller's-thumb)<br><br>1: Japanese fluvial sculpin (Cottus pollux)	
+鰍	2192980	いなだ	鰍	noun	1: young Japanese amberjack (Seriola quinqueradiata)	鰤
+鰐	1562640	わに	鰐	noun, nouns which may take the genitive case particle `no'	1: crocodile<br>2: alligator<br>3: crocodilian<br><br>1: shark	
+鮒	1502830	ふな	鮒	noun	1: crucian carp (Carassius spp.)	
+鰭	1490520	ひれ	鰭	noun	1: fin (e.g. of a fish)	
+鴎	1181750	かもめ	鴎	noun	1: common gull (Larus canus)<br>2: mew gull<br><br>1: gull (Laridae spp.)<br>2: seagull	
+鵜	1172190	う	鵜	noun	1: cormorant (Phalacrocoracidae spp.)	
+鷺	2148630	さぎ	鷺	noun	1: heron (Ardeidae)	
+鴨	1209250	かも	鴨	noun	1: duck<br><br>1: easy mark<br>2: sucker<br>3: sitting duck	
+鳶	1008670	とび	鳶	noun	1: black kite (Milvus migrans)<br><br>1: construction worker<br>2: scaffold erector<br>3: firefighter<br><br>1: Inverness cape	鳶職; 鳶合羽
+梟	1568080	ふくろう	梟	noun	1: owl (esp. the Ural owl, Strix uralensis)	
+塵	1369900	ごみ	塵	noun	1: rubbish<br>2: trash<br>3: garbage<br>4: refuse	
+塵	1369910	ちり	塵	noun	1: dust<br>2: dirt	
+麓	1611440	ふもと	麓	noun	1: foot (of a mountain or hill)<br>2: bottom<br>3: base	
+瞑る	1585820	つぶる	瞑	Godan verb with `ru' ending, transitive verb	1: to close (eyes)<br>2: to shut	
+瞑する	2575260	めいする	瞑	suru verb - special class, intransitive verb	1: to close one's eyes<br>2: to sleep<br><br>1: to rest in peace	
+挫く	1292010	くじく	挫	Godan verb with `ku' ending, transitive verb	1: to sprain<br>2: to twist<br><br>1: to dampen (enthusiasm)<br>2: to discourage<br>3: to dishearten<br>4: to dispirit<br>5: to depress<br>6: to unnerve<br>7: to crush	
+挫ける	1292020	くじける	挫	Ichidan verb, intransitive verb	1: to be disheartened<br>2: to lose heart<br>3: to be dispirited<br>4: to be crushed (emotionally)<br><br>1: to be sprained<br><br>1: to be snapped<br>2: to be broken	
+遡る	1397830	さかのぼる	遡	Godan verb with `ru' ending, intransitive verb	1: to go upstream<br><br>1: to go back (in time, to origin)<br>2: to date back to<br>3: to trace back to<br>4: to make retroactive	
+嘉する	2823380	よみする	嘉	suru verb - special class	1: to praise<br>2: to extol<br>3: to applaud<br>4: to esteem	
+兜	1209030	かぶと	兜	noun	1: helmet (of armor, armour)<br>2: headpiece	
+爽やか	1399520	さわやか	爽	adjectival nouns or quasi-adjectives, noun	1: fresh<br>2: refreshing<br>3: invigorating<br>4: clear<br>5: fluent<br>6: eloquent	
+輿	1584960	かご	輿	noun	1: palanquin<br>2: litter<br>3: bier	
+歪	1562420	いびつ	歪	adjectival nouns or quasi-adjectives, noun, nouns which may take the genitive case particle `no'	1: distorted<br>2: crooked<br>3: irregular<br>4: warped<br><br>1: oval<br>2: elliptical shape<br><br>1: round, wooden container for cooked rice<br><br>1: oval coin	飯櫃・めしびつ
+歪む	1585360	ゆがむ	歪	Godan verb with `mu' ending, intransitive verb	1: to warp<br>2: to swerve<br>3: to deflect<br>4: to be crooked<br>5: to be distorted<br>6: to be bent<br>7: to incline<br>8: to slant<br>9: to be perverted<br>10: to be gross-grained<br>11: to get bent<br>12: to be strained	
+鼎	1436850	かなえ	鼎	noun	1: three-legged metal pot or kettle (used in ancient China)	
+燕	1177350	つばめ	燕	noun	1: swallow (bird of the Hirundinidae family)<br>2: martin<br><br>1: barn swallow (Hirundo rustica)<br><br>1: younger man involved with an older woman	若い燕
+嘗て	1581210	かつて	嘗	adverb, nouns which may take the genitive case particle `no'	1: once<br>2: before<br>3: formerly<br>4: ever<br>5: former<br>6: ex-<br><br>1: never yet<br>2: never before<br>3: first time<br>4: still not happened	
+殆ど	1522050	ほとんど	殆	adverbial noun	1: mostly<br>2: nearly<br>3: practically<br>4: well-nigh<br>5: almost invariably<br>6: all but<br>7: just about<br>8: almost	
+殆	2009740	ほとほと	殆	adverb	1: quite (usu. negative connotation)<br>2: utterly<br>3: really	
+覗く	1470840	のぞく	覗	Godan verb with `ku' ending, transitive verb, intransitive verb	1: to peek (though a keyhole, gap, etc.)<br><br>1: to look down into (a ravine, etc.)<br><br>1: to peek into (a shop, bookstore, etc.)<br><br>1: to sneak a look at<br>2: to take a quick look at<br><br>1: to peep (through a telescope, microscope, etc.)<br><br>1: to stick out (a scarf from a collar, etc.)<br>2: to peek through (sky through a forest canopy, etc.)<br><br>1: to face	臨む・2
+雀	1373560	すずめ	雀	noun	1: tree sparrow (Passer montanus)<br><br>1: talkative person<br>2: knowledgeable person	
+隼	1478360	はやぶさ	隼	noun	1: falcon (esp. the peregrine falcon, Falco peregrinus)	
+夷	1156020	えびす	夷	noun	1: peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu)<br><br>1: provincial (i.e. a person who lives far from the city)<br><br>1: brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan)<br><br>1: foreigner<br>2: barbarian	蝦夷・1
+丼	1562970	どんぶり	丼	noun	1: porcelain bowl<br><br>1: bowl of rice with food on top	丼物
+斯う	1004310	こう	斯	adverb, interjection	1: in this way (used for something or someone close to the speaker, including the speaker himself, or for the opinions of the speaker)<br>2: thus<br>3: such<br><br>1: uh... (interjection used as a verbal pause)	ああ; 然う; 如何・どう
+斯く	2076890	かく	斯	adverb, nouns which may take the genitive case particle `no'	1: like this<br>2: such<br>3: thus<br>4: in this way	
+匙	1585630	さじ	匙	noun	1: spoon	
+麿	1525740	まろ	麿	pronoun, suffix	1: I<br>2: me<br><br>1: (person having) thin or shaved eyebrows<br><br>1: affectionate suffix for names of young men or pets	
+叢	1592170	くさむら	叢	noun	1: clump of bushes<br>2: grassy place<br>3: thicket<br>4: jungle<br>5: the bush	
+肴	1297170	さかな	肴	noun	1: appetizer or snack served with drinks<br><br>1: performance to liven up a bar<br>2: conversation to liven up a party	
+於て	1178920	おいて	於	conjunction	1: at<br>2: in<br>3: on	において
+於ける	1178930	おける	於	expressions	1: in<br>2: at<br>3: for	
+尖る	1389970	とがる	尖	Godan verb with `ru' ending, intransitive verb	1: to taper to a point<br>2: to become sharp<br><br>1: to look displeased<br>2: to look sour<br>3: to be on edge<br>4: to be touchy	
+壷	1433870	つぼ	壷	noun	1: jar<br>2: pot<br>3: vase<br><br>1: dice cup<br><br>1: depression (i.e. the basin of a waterfall)<br><br>1: target (when aiming an arrow)<br><br>1: (figurative) bull's-eye<br><br>1: key point (of a conversation, etc.)<br><br>1: acupuncture point<br>2: moxibustion point<br><br>1: nodes on a fingerboard (of a shamisen, etc.)	思うつぼ
+鴬	1181730	うぐいす	鴬	noun, noun, used as a prefix	1: Japanese bush warbler<br>2: Japanese nightingale (Cettia diphone)<br><br>1: greenish brown<br><br>1: having a beautiful voice	鶯茶
+臥せる	1197670	ふせる	臥	Godan verb with `ru' ending, transitive verb	1: to lie down<br>2: to retire<br>3: to go to bed	
+臥す	2224700	ふす	臥	Godan verb with `su' ending, intransitive verb	1: to lie down (in bed)	
+甥	1179140	おい	甥	noun	1: nephew	甥御; 甥子
+拳	1257740	こぶし	拳	noun	1: fist	
+胤	1170130	たね	胤	noun	1: issue<br>2: offspring<br>3: paternal blood	
+巫	1566440	かんなぎ	巫	noun	1: medium<br>2: diviner<br>3: shaman<br>4: oracle	
+翔る	1570710	かける	翔	Godan verb with `ru' ending, intransitive verb	1: to soar<br>2: to fly<br><br>1: to run<br>2: to dash	
+棘	1598710	とげ	棘	noun	1: thorn<br>2: spine<br>3: prickle<br><br>1: splinter (esp. lodged in one's flesh)<br>2: hard sharp item (esp. lodged in one's throat, e.g. fish bone)<br><br>1: biting words	
+甦る	1606020	よみがえる	甦	Godan verb with `ru' ending, intransitive verb	1: to be resurrected<br>2: to be resuscitated<br>3: to be rehabilitated<br>4: to be revived<br>5: to be refreshed<br>6: to be restored<br><br>1: to be recalled (e.g. memories)<br>2: to be brought back	
+剪る	1564590	きる	剪	Godan verb with `ru' ending	1: to cut<br>2: to prune<br>3: to trim (branches, leaves, flowers, etc.)	
+躾	1573410	しつけ	躾	noun, nouns which may take the genitive case particle `no'	1: discipline<br>2: training<br>3: teaching manners	仕付け・しつけ・3
+躾ける	1573420	しつける	躾	Ichidan verb, transitive verb	1: to train<br>2: to discipline<br>3: to teach manners	仕付ける・しつける・2
+夥しい	1565840	おびただしい	夥	adjective	1: large number<br>2: innumerable<br>3: great many<br>4: immense<br>5: vast<br>6: abundant	
+鼾	1575480	いびき	鼾	noun	1: snoring<br>2: snore	
+祟り	1570080	たたり	祟	noun	1: curse<br>2: divine punishment<br>3: wrath (of an angry spirit)	
+祟る	1570090	たたる	祟	Godan verb with `ru' ending, intransitive verb	1: to curse<br>2: to cast a spell<br>3: to haunt<br>4: to torment<br><br>1: to cause a bad result<br>2: to bring about a negative outcome	
+粁	1042650	キロメートル	粁	noun	1: kilometer<br>2: kilometre	
+吋	1023330	インチ	吋	noun	1: inch	
+唖	1149990	おし	唖	noun	1: muteness<br>2: speech impairment<br><br>1: mute<br>2: deaf-mute	
+檜	1568030	ひのき	檜	noun	1: hinoki cypress (Chamaecyparis obtusa)<br>2: Japanese cypress	
+轡	1956140	くつわ	轡	noun	1: bit (i.e. attached to a bridle)	
+淵	1501530	ふち	淵	noun	1: deep pool<br>2: deep water<br>3: abyss<br><br>1: depths (e.g. of despair, etc.)<br>2: grip (e.g. of death)	瀬・1
+逞しい	1573650	たくましい	逞	adjective	1: burly<br>2: strong<br>3: sturdy<br><br>1: indomitable<br>2: indefatigable<br>3: strong-willed<br>4: resolute<br>5: bold<br><br>1: robust (vitality, appetite, economic growth, etc.)<br>2: strong	
+巌	2801250	いわお	巌	noun	1: huge rock	
+聾する	1561160	ろうする	聾	suru verb - special class	1: to deafen	
+聾	1585300	つんぼ	聾	noun	1: deafness<br><br>1: deaf person	
+躯	1956130	むくろ	躯	noun	1: (dead) body<br>2: corpse	
+脛	1570850	すね	脛	noun	1: shin<br>2: shank<br>3: lower leg	
+祓う	2183000	はらう	祓	Godan verb with `u' ending, transitive verb	1: to exorcise<br>2: to cleanse<br>3: to purify	
+鼈	1575430	すっぽん	鼈	noun	1: Chinese soft-shelled turtle (Pelodiscus sinensis)<br>2: soft-shelled turtle (Trionychidae)	
+掟	1567460	おきて	掟	noun	1: a law	
